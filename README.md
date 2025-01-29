@@ -1,4 +1,5 @@
-<img src="[https://your-banner-image-link-here](https://tenor.com/bo3IhJf9wVs.gif)" alt="Banner" width="100%">
+<img src="[![Smol Swol GIF](https://media.tenor.com/4bKnNzp9LS4AAAAd/smolverse-smol-swol.gif)
+" alt="Banner" width="100%">
 
 # Aziddine here! 👨‍💻  
 
