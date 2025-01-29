@@ -5,7 +5,7 @@
 <h1 align="center">Aziddine here! 👨‍💻</h1>
 
 <p align="center">
-  I'm from **Morocco** 🇲🇦, a proud **CS student** at **1337 School**, diving deep into the world of programming and tech 💻.  
+  I'm from **Morocco** 🇲🇦, a proud `CS student` at `1337 School`, diving deep into the world of programming and tech 💻.  
   When I'm not crushing bugs or building projects, I'm learning new skills and growing as a developer!
 </p>
 
