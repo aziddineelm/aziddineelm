@@ -16,10 +16,10 @@ When I'm not crushing bugs or building projects.
 ---
 
 ### 📊 GitHub Stats  
-![Aziddine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aziddine&show_icons=true&theme=radical&hide=stars,prs)  
+![Aziddine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aziddineelm&show_icons=true&theme=radical&hide=stars,prs)  
 
 ### 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aziddine&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziddineelm&layout=compact&theme=radical)  
 
 ---
 
