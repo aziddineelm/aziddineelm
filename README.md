@@ -50,3 +50,5 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/aziddineelm/aziddineelm/refs/heads/output/github-snake.svg" />
   </picture>
 </p>
+
+---
