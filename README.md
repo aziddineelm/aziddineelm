@@ -1,4 +1,4 @@
-![Workout Monkey GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhuNzhnbGFnMWQxaGlrcjR6MGZscm1scU4MzloMTJ5a2s3eGVkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms0cTczMzJqejI2czR0bmxwdmJicTE5OWhxNmg4aG9udHA5c2ExcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Banner" width="100%">
 
 
 # Aziddine here! 👨‍💻  
