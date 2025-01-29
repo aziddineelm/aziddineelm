@@ -5,13 +5,13 @@
 <h1 align="center">Aziddine here! 👨‍💻</h1>
 
 <p align="center">
-  I'm from ```Morocco``` 🇲🇦, a proud ```CS student``` at ```1337 School```, diving deep into the world of programming and tech 💻.  
+  I'm from <strong>Morocco</strong> 🇲🇦, a proud <strong>CS student</strong> at <strong>1337 School</strong>, diving deep into the world of programming and tech 💻.<br>
   When I'm not crushing bugs or building projects, I'm learning new skills and growing as a developer!
 </p>
 
 ---
 
-### 📫 Connect with Me  
+### 📫 Connect with Me
 <p align="center">
   <a href="https://github.com/aziddineelm">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
@@ -26,19 +26,19 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aziddineelm&show_icons=true&theme=radical&hide=stars,prs" alt="Aziddine's GitHub Stats">
 </p>
 
-### 🔥 Most Used Languages  
+### 🔥 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziddineelm&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-### 🎮 Fun Fact  
+### 🎮 Fun Fact
 <p align="center">
   "Programming is like playing chess – every move matters!"
 </p>
