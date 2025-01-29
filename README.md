@@ -26,14 +26,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aziddineelm&show_icons=true&theme=radical&hide=stars,prs" alt="Aziddine's GitHub Stats">
-</p>
-
-### 🔥 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziddineelm&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=aziddineelm&show_icons=true&theme=radical&hide=stars,prs" alt="Aziddine's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziddineelm&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -49,6 +45,4 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aziddineelm/aziddineelm/refs/heads/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aziddineelm/aziddineelm/refs/heads/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/aziddineelm/aziddineelm/refs/heads/output/github-snake.svg" />
-  </picture>
-</p>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/aziddineelm/aziddineelm/refs/heads/output/github-s
