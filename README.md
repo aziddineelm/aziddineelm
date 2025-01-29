@@ -1,5 +1,5 @@
-<img src="[![Smol Swol GIF](https://media.tenor.com/4bKnNzp9LS4AAAAd/smolverse-smol-swol.gif)
-" alt="Banner" width="100%">
+![Workout Monkey GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhuNzhnbGFnMWQxaGlrcjR6MGZscm1scU4MzloMTJ5a2s3eGVkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif)
+
 
 # Aziddine here! 👨‍💻  
 
