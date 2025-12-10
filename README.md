@@ -28,21 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats & Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziddineelm&layout=compact&theme=radical&count_private=true" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aziddineelm&show_icons=true&theme=radical&hide=stars,prs&count_private=true" alt="Aziddine's GitHub Stats" width="49%" />
-</p>
-
----
-
-### 🎮 Fun Fact
-<p align="center">
-  "Programming is like playing chess – every move matters!"
-</p>
-
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aziddineelm/aziddineelm/refs/heads/output/github-snake-dark.svg" />
