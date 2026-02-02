@@ -15,21 +15,16 @@
 
 ### 👨‍💻 About Me
 
-```typescript
-const aziddine = {
-    location: "Morocco 🇲🇦",
-    education: "1337 School (42 Network)",
-    currentFocus: ["System Programming", "Web Development", "Algorithms"],
-    interests: ["Open Source", "Problem Solving", "Clean Code"],
-    funFact: "I debug in my sleep 😴💭"
-};
-```
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🎓 **CS Student** at **1337 School**, diving deep into the world of programming and tech  
-💡 Passionate about building efficient and scalable solutions  
-🌱 Currently learning advanced **C/C++** and exploring **Web Technologies**  
-🔭 Working on challenging projects that push my limits  
-⚡ When I'm not coding, I'm learning new skills and growing as a developer!
+- 🎓 **CS Student** at **1337 School** (42 Network) in Morocco 🇲🇦
+- � Passionate about **Cybersecurity** & **Penetration Testing**
+- 🛡️ Learning **ethical hacking**, **vulnerability assessment** & **security best practices**
+- 🔭 Building security-focused projects and CTF challenges
+- 🎯 Goal: Become a skilled security researcher and penetration tester
+- ⚡ Fun fact: I think **Vim** is the best editor ever created!
+
+<br clear="both">
 
 ---
 
@@ -48,29 +43,36 @@ const aziddine = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aziddineelm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziddineelm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <a href="https://github.com/aziddineelm">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aziddineelm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/aziddineelm">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aziddineelm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziddineelm&theme=tokyonight&hide_border=true" alt="aziddineelm" />
-</div>
+<p align="center">
+  <a href="https://github.com/aziddineelm">
+    <img src="https://streak-stats.demolab.com?user=aziddineelm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aziddineelm&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <a href="https://github.com/aziddineelm">
+    <img src="https://github-trophies.vercel.app/?username=aziddineelm&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 ---
 
