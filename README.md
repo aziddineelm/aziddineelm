@@ -53,12 +53,10 @@
   <a href="https://github.com/aziddineelm">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aziddineelm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" alt="GitHub Stats"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/aziddineelm">
-    <img src="https://streak-stats.demolab.com?user=aziddineelm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aziddineelm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages"/>
   </a>
+</p>
 </p>
 
 ---
