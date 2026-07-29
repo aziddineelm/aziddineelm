@@ -13,22 +13,22 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 **CS Student** at **1337 School** (42 Network) in Morocco 🇲🇦
-- � Passionate about **Cybersecurity** & **Penetration Testing**
-- 🛡️ Learning **ethical hacking**, **vulnerability assessment** & **security best practices**
-- 🔭 Building security-focused projects and CTF challenges
-- 🎯 Goal: Become a skilled security researcher and penetration tester
-- ⚡ Fun fact: I think **Vim** is the best editor ever created!
+- **CS Student** at **1337 School** (42 Network)
+- Passionate about **Cybersecurity** & **Penetration Testing**
+- Learning **ethical hacking**, **vulnerability assessment** & **security best practices**
+- Building security-focused projects and CTF challenges
+- Goal: Become a skilled security researcher and penetration tester
+- Fun fact: I think **Vim** is the best editor ever created!
 
 <br clear="both">
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Languages
 <p align="center">
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/aziddineelm">
@@ -61,7 +61,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/aziddineelm">
@@ -71,7 +71,7 @@
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <picture>
@@ -83,7 +83,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://github.com/aziddineelm">
@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <i>💬 Feel free to reach out if you want to collaborate on projects or just chat about tech!</i>
+  <i> Feel free to reach out if you want to collaborate on projects or just chat about tech!</i>
 </p>
 
 ---
